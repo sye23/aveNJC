@@ -1,0 +1,31 @@
+{
+  "sunday": {
+    "shachris": "6:30/7:15am",
+    "mincha": "7:30pm",
+    "marriv": "9:00pm"
+  },
+  "monday": {
+    "shachris": "6:30/7:15am",
+    "mincha": "7:30pm",
+    "marriv": "9:00pm"
+  },
+  "tuesday": {
+    "shachris": "6:30/7:15am",
+    "mincha": "7:30pm",
+    "marriv": "8:00pm"
+  },
+  "wednesday": {
+    "shachris": "6:30/7:15am",
+    "mincha": "7:30pm",
+    "marriv": "8:00pm"
+  },
+  "thursday": {
+    "shachris": "6:30/7:15am",
+    "mincha": "7:30pm",
+    "marriv": "8:00pm"
+  },
+  "friday": {
+   "shachris": "6:30/7:15am",
+    "mincha": "7:10pm"
+  }
+}

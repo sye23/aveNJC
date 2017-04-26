@@ -1,0 +1,25 @@
+panel-default>.panel-heading {
+    background-color: #545454;
+    color: white;
+}
+
+.panel-default {
+    background-color: #808080;
+    color: #810815;
+}
+
+.panel-default a {
+    color: #810815;
+    text-decoration: underline;
+}
+
+@media (max-width: 767px) {
+    .sidebar {
+        margin-top: 3%;
+        margin-left: 2%;
+    }
+    #mainbody .header,
+    #mainbody p {
+        padding-left: 2%;
+    }
+}

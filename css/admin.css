@@ -1,0 +1,13 @@
+h3 {
+    margin-bottom: 2%;
+    font-weight: bold;
+    margin-left: 4%;
+}
+
+.heading {
+    padding-top: 4%;
+}
+
+#calendarAnchorDiv {
+    display: none;
+}

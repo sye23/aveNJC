@@ -1,0 +1,33 @@
+.bioImage {
+    margin: 4px;
+    height: 200px;
+    width: 225px;
+    float: left;
+    padding-right: 1.5%;
+}
+
+.bioHeading {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.message {
+    font-size: 1.3em;
+}
+
+@media (max-width: 400px) {
+    .bioImage {
+        margin: 4px;
+        height: 160px;
+        width: 165px;
+        float: left;
+        padding-right: 1.5%;
+    }
+    .bioHeading {
+        font-weight: bold;
+        font-size: 1.3em;
+    }
+    .message {
+        font-size: 1em;
+    }
+}

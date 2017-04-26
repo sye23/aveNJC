@@ -1,0 +1,9 @@
+.boardContainer {
+    margin-top: 5%;
+    margin-bottom: 2%
+}
+
+#mainbody p {
+    font-size: 18px;
+    line-height: 2;
+}

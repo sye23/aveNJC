@@ -1,0 +1,32 @@
+#paymentHeader {
+    color: #810815;
+    margin-top: 0%;
+    margin-bottom: 3%;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+.panel-heading div {
+    margin-top: -18px;
+    font-size: 15px;
+}
+
+.panel-heading div span {
+    margin-left: 5px;
+}
+
+.panel-body {
+    display: none;
+}
+
+.panel-success>.panel-heading {
+    background-color: #545454;
+    color: white;
+}
+
+.panel-success {
+    background-color: #808080;
+    color: #810815;
+}

@@ -1,0 +1,25 @@
+.shiurimContainer {
+    margin-bottom: 2%;
+}
+
+#mainbody ul {
+    margin-top: 6%;
+    list-style: none;
+}
+
+#mainbody img {
+    height: 185px;
+    width: 175px;
+    float: left;
+    margin-right: 2%
+}
+
+.badge {
+    background-color: #810815;
+}
+
+@media (max-width: 400px) {
+    #mainbody h2 {
+        display: inline-block;
+    }
+}

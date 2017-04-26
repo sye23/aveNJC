@@ -1,0 +1,10 @@
+@media (max-width: 450px) {
+    #submit{
+            font-size: 10px;
+        display: block;
+        width: 80%;
+        right: 10%;
+        position: absolute;
+        bottom: 1%;
+    }
+}
